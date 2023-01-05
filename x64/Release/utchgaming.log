@@ -1,0 +1,173 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  dllmain.cpp
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(5,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(193,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(493,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(558,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(558,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(558,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(788,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(789,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(790,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(792,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(794,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(796,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(798,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(800,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(802,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(804,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(816,65): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(517,7): message : see declaration of 'Vector3'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\lazyimporter.h(475,1): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(999,4): message : see reference to function template instantiation 'decltype(auto) li::detail::lazy_function<69435095,BOOL (__cdecl *)(HANDLE,HMODULE,LPMODULEINFO,DWORD)>::operator ()<HANDLE,HMODULE,MODULEINFO*,size_t>(HANDLE &&,HMODULE &&,MODULEINFO *&&,size_t &&) const' being compiled
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(1033,65): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(517,7): message : see declaration of 'Vector3'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(1034,65): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(517,7): message : see declaration of 'Vector3'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(1127,68): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(517,7): message : see declaration of 'Vector3'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(1128,68): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(517,7): message : see declaration of 'Vector3'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(1376,65): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(517,7): message : see declaration of 'Vector3'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(1435,67): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(517,7): message : see declaration of 'Vector3'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(1509,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(271,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(273,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(278,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(287,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(324,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(343,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(350,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(354,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(355,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(356,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(357,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(363,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(424,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(424,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(428,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(459,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(463,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(494,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(501,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(501,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(505,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(505,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(510,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(510,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(514,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(551,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(558,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(558,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(563,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(563,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(567,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(602,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(607,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(640,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(646,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(675,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(680,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(683,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(683,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(690,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(698,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(699,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(750,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(755,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(766,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(771,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(771,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(778,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(778,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(784,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(785,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(825,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(830,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(841,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(865,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(866,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(866,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(869,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(904,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(911,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(911,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(917,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(917,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(921,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(955,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(966,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1059,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1066,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1066,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1071,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1071,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1075,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1139,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1139,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1144,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1145,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1146,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1147,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1177,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1182,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1413,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\ZeroGui.h(1413,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(56,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(56,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(59,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(59,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(73,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(73,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(88,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(88,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(100,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(101,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(107,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(123,34): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(124,34): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(194,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\SDK.h(4,1): message : see previous definition of 'M_PI'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(205,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(206,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(207,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(208,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(222,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(222,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(223,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\NewGUI.h(224,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(148,111): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(150,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(350,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(382,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(386,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(387,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(387,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(543,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(547,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(564,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(577,62): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(593,61): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(636,55): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(645,55): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(669,59): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(687,58): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(696,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(703,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(705,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(705,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(705,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(705,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(255,12): warning C4101: 'LocalRootComponent': unreferenced local variable
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(818,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\dllmain.cpp(819,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  165 of 1038 functions (15.9%) were compiled, the rest were copied from previous compilation.
+    138 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  utchgaming.vcxproj -> C:\Users\wasay\OneDrive\Documents\Sources\fortnite internal\x64\Release\test.dll
